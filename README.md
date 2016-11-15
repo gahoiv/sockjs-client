@@ -1,3 +1,6 @@
+# sockjs-client-web
+
+This is simply a fork of the sockjs-client library with the `dist` folder not `.npmignor`ed and repblished with `-web` appended to the end of the name. Everything other than the name, the `.npmignore` file, and this bit of `README` text remains untouched.
 
 # SockJS-client
 
